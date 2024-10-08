@@ -6,7 +6,7 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 
 
 <b>Customization:</B>  
-The Toolbar can be customized by modifying the values in the "ini" file as shown in the Demo video. To change the color of the Toolbar, change the Colour name for the "ToolbarColor" parameter, you can choose color name from the following list  
+The Toolbar can be customized by modifying the values in the "ini" file as shown in the Demo video. To change the color of the Toolbar, change the Color name for the "ToolbarColor" parameter, you can choose color name from the following list  
 [Color Names List](https://learn.microsoft.com/en-us/dotnet/media/art-color-table.png?view=windowsdesktop-8.0)  
 For example, change the color as below in the "ini" file.  
 ToolbarColor=DarkCyan  
