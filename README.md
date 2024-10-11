@@ -13,7 +13,12 @@ ToolbarColor=DarkCyan
 Save the "ini" file, close and re-open the Toolbar to apply changes.  
 ![image](https://github.com/user-attachments/assets/26e5b37c-217b-4554-af4b-d9729ea4adf1)
 
-Examples:
+<b>Troubleshooting:</B>  
+If you mess up the ini file settings, you can just delete the ini file and restart the App, it will automatically re-create the ini file with default settings.
+
+<b>Examples:</B>
+Following are examples. 
+
 | Toolbar Display                                                                                             | ini settings                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![image](https://github.com/user-attachments/assets/eb5546e6-4391-492d-930a-b170ea9e3d0b)          | <sub>ButtonSizeWidth=80<br>ButtonSizeHeight=75<br>IconSizeWidth=32<br>IconSizeHeight=32<br>ShowButtonText=Yes<br>ToolbarColor=DarkOrange<br>ButtonTextImageRelation=ImageAboveText<br>ButtonImageAlign=TopCenter<br>ButtonTextAlign=MiddleCenter</sub> |
