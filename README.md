@@ -14,10 +14,10 @@ Save the "ini" file, close and re-open the Toolbar to apply changes.
 ![image](https://github.com/user-attachments/assets/26e5b37c-217b-4554-af4b-d9729ea4adf1)
 
 <b>Troubleshooting:</B>  
-If you mess up the ini file settings, you can just delete the ini file and restart the App, it will automatically re-create the ini file with default settings.
+If you mess up the ini file settings, and do not have backup, you can just delete the ini file and restart the App, it will automatically re-create the ini file with default settings.
 
 <b>Examples:</B>
-Following are examples. 
+
 
 | Toolbar Display                                                                                             | ini settings                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
