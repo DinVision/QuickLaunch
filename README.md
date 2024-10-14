@@ -16,7 +16,8 @@ Save the "ini" file, close and re-open the Toolbar to apply changes.
 <b>Troubleshooting:</B>  
 If you mess up the ini file settings, and do not have backup, you can just delete the ini file and restart the App, it will automatically re-create the ini file with default settings.
 
-<b>Examples:</B>
+<b>Examples:</B>  
+See this YouTube Video [How to customize Icons Display](https://www.youtube.com/watch?v=RTC05oaLqeM) to see demonstration of the following configuration.
 
 
 | Toolbar Display                                                                                             | ini settings                                                                                                                                                                                      |
