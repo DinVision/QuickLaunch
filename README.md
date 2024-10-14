@@ -9,7 +9,7 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 The Toolbar can be customized by modifying the values in the "ini" file as shown in the Demo video. 
 
 <b>Troubleshooting:</B>  
-If you mess up the ini file settings, and do not have backup, you can just delete the ini file and restart the App, it will automatically re-create the ini file with default settings.
+If you mess up the ini file settings, and do not have backup, you can just close the App, delete the ini file and restart the App, it will automatically re-create the ini file with default settings.
 
 <b>How to change Toolbar Color:</B>  
 To change the color of the Toolbar, change the Color name for the "ToolbarColor" parameter, you can choose color name from the following list  
