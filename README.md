@@ -4,7 +4,7 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ioM-3ewWOJ0/0.jpg)](http://www.youtube.com/watch?v=ioM-3ewWOJ0 "Quick Launch Toolbar Demo")
 
-<b>Soring and Naming the Shortcuts:</B>  
+<b>Sorting and Naming the Shortcuts:</B>  
 For easy sorting, name the Shortcuts with 3 digit numeric prefix as example below.   
 "100 Paint"  
 "200 Notepad"  
