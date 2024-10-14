@@ -20,7 +20,7 @@ The Toolbar can be customized by modifying the values in the "ini" file as shown
 If you mess up the ini file settings, and do not have backup, you can just close the App, delete the ini file and restart the App, it will automatically re-create the ini file with default settings.
 
 <B>Taskbar Display Setting:</B>  
-If you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the ini file.  
+If you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the ini file. Restart the App. Then the App will be displayed in the Taskbar only when you minimize it.  
 ![image](https://github.com/user-attachments/assets/32530b33-bbfe-4917-9355-ef02efb3f6e6)
 
 
