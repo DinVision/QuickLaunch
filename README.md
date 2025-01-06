@@ -28,14 +28,20 @@ If you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' t
 <b>How to change Toolbar Color:</B>  
 To change the color of the Toolbar, change the Color name for the "ToolbarColor" parameter, you can choose color name from the following list  
 [Color Names List](https://learn.microsoft.com/en-us/dotnet/media/art-color-table.png?view=windowsdesktop-8.0)  
-For example, change the color as below in the "ini" file.  
-ToolbarColor=DarkCyan  
+For example, change the color as below in the "ini" file. (in version 1.0.52.0)  
+ToolbarColor=LightBlue  
+ToolbarBorder=Yes  
+ToolbarBorderColor=Green  
 Save the "ini" file, close and re-open the Toolbar to apply changes.  
-![image](https://github.com/user-attachments/assets/2e2bea71-3e1e-4c66-b1c0-a4d367fd5815)
 
+![image](https://github.com/user-attachments/assets/4f5ab5e1-d552-4e9d-b784-4104081970e6)
 
 <b>How to customize Icons Display:</B>  
-See this YouTube Video [How to customize Icons Display](https://www.youtube.com/watch?v=RTC05oaLqeM) to see demonstration of the following configuration.
+See this YouTube Video [How to customize Icons Display](https://www.youtube.com/watch?v=RTC05oaLqeM) to see demonstration of the configuration such as following.
+
+| Toolbar Display                                                                                             | ini settings                                                                                                                                                                                      |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|![image](https://github.com/user-attachments/assets/ff0b5b9e-7aa2-4bb1-b960-37d6176d6042)  | <sub>ButtonSizeWidth=80<br>ButtonSizeHeight=75<br>IconSizeWidth=32<br>IconSizeHeight=32<br>ShowButtonText=Yes<br>ToolbarColor=DarkSlateGray<br>ButtonTextImageRelation=ImageAboveText<br>ButtonImageAlign=TopCenter<br>ButtonTextAlign=MiddleCenter<br>ToolbarBorder=Yes<br>ToolbarBorderColor=DarkGray<br>ButtonTextColor=White</sub> |
 
 
 | Toolbar Display                                                                                             | ini settings                                                                                                                                                                                      |
