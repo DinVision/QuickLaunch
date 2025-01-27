@@ -18,7 +18,7 @@ Create sub-folders to display shortcuts in separate groups as shown in example b
 
 
 <b>Sorting and Naming the Shortcuts:</B>  
-For easy sorting, name the Shortcuts with 3 digit numeric prefix as example below.   
+For easy sorting, name the Shortcuts with 3 digit numeric prefix as example below. The 3-digit prefix is for sorting purpose.   
 "010 Paint"  
 "020 Notepad"  
 "030 Excel"  
