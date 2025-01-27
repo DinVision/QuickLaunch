@@ -7,7 +7,7 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 <b>Updates in new verisons</b>  
 Jan 27, 2025:  
 Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creating sub-folders.  
-Version 1.0.54.0: updates: Display icons without shortcut arrow, added options in "ini" file to show Toolbar Border, change Shortcut Text Color.    
+Version 1.0.54.0: Display icons without shortcut arrow, added options in "ini" file to show Toolbar Border, change Shortcut Text Color.    
   
 <b>Group Shortcuts</b>  
 Create sub-folders to display shortcuts in separate groups as shown in example below.  
