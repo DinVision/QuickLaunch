@@ -10,7 +10,7 @@ Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creatin
 Version 1.0.54.0: Display icons without shortcut arrow, added options in "ini" file to show Toolbar Border, change Shortcut Text Color.    
   
 <b>Group Shortcuts</b>  
-Create sub-folders to display shortcuts in separate groups as shown in example below.  
+Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose.  
   
 ![image](https://github.com/user-attachments/assets/bbeaceab-fd8e-48dc-984d-a45b0fbf6206)
 
@@ -18,7 +18,7 @@ Create sub-folders to display shortcuts in separate groups as shown in example b
 
 
 <b>Sorting and Naming the Shortcuts:</B>  
-For easy sorting, name the Shortcuts with 3 digit numeric prefix as example below. The 3-digit prefix is for sorting purpose.   
+For easy sorting, name the Shortcuts with 3 digit numeric prefix as example below.    
 "010 Paint"  
 "020 Notepad"  
 "030 Excel"  
