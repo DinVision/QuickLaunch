@@ -4,13 +4,22 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
+<b>Updates in new verisons</b>  
+Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creating sub-folders.  
+Version 1.0.54.0: updates: Display icons without shortcut arrow, added options in "ini" file to show Toolbar Border, change Shortcut Text Color.  
+
+![image](https://github.com/user-attachments/assets/bbeaceab-fd8e-48dc-984d-a45b0fbf6206)
+
+![image](https://github.com/user-attachments/assets/9177a9f9-7b3d-4244-a28b-4870e93f0699)
+
+
 <b>Sorting and Naming the Shortcuts:</B>  
 For easy sorting, name the Shortcuts with 3 digit numeric prefix as example below.   
-"100 Paint"  
-"200 Notepad"  
-"300 Excel"  
+"010 Paint"  
+"020 Notepad"  
+"030 Excel"  
 Then, if you need to insert new shortcuts in-between, use the in-between numeric prefix such as:  
-"150 Outlook"  
+"015 Outlook"  
 The 3-digit numeric prefix is automatically hidden in the Shortcut ToolTip.  
 
 <b>Customization:</B>  
