@@ -4,12 +4,14 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
-<b>Updates in new verisons</b>  
+<b>Updates in new verisons  ![image](https://github.com/user-attachments/assets/9ca49cb0-9956-47aa-a1fb-9bfc80e21a91)
+</b>  
 Jan 27, 2025:  
 Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creating sub-folders.  
 Version 1.0.54.0: Display icons without shortcut arrow, added options in "ini" file to show Toolbar Border, change Shortcut Text Color.    
   
-<b>Group Shortcuts</b>  
+<b>Group Shortcuts  ![image](https://github.com/user-attachments/assets/82d5596f-9b4b-404a-94a0-8b43a956166b)
+</b>  
 Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose.  
   
 ![image](https://github.com/user-attachments/assets/bbeaceab-fd8e-48dc-984d-a45b0fbf6206)
