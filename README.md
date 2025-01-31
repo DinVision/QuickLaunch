@@ -2,7 +2,7 @@
 *Din Quick Launch Toolbar* App is a simple App with auto-hide feature for Windows 11/10 to manage Shortcuts. This App is available on Microsoft Store. See following YouTube Video for a quick demonstration of the App.   
 For any inquiries on this App, please email us at dinvision.bc@gmail.com
 
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
 <b>Updates in new verisons  ![image](https://github.com/user-attachments/assets/9ca49cb0-9956-47aa-a1fb-9bfc80e21a91)
 </b>  
