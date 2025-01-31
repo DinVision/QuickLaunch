@@ -7,7 +7,8 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 <b>Updates in new verisons  ![image](https://github.com/user-attachments/assets/9ca49cb0-9956-47aa-a1fb-9bfc80e21a91)
 </b>  
 Jan 31, 2025:   
-Version 1.0.57.0: Added function to create ICO icons from Image files, added options in INI file to resize Control Buttons ![image](https://github.com/user-attachments/assets/48ed36f0-42fb-48c3-b682-5d6f990eba77)
+Version 1.0.57.0: Added function ![image](https://github.com/user-attachments/assets/3180731b-d9ea-4689-b9e7-d58f06006d7d)
+to create ICO icons from Image files, added options in INI file to resize Control Buttons ![image](https://github.com/user-attachments/assets/48ed36f0-42fb-48c3-b682-5d6f990eba77)
 .  
 Jan 27, 2025:  
 Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creating sub-folders.  
@@ -17,9 +18,16 @@ Version 1.0.54.0: Display icons without shortcut arrow, added options in INI fil
 </b>  
 Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose.  
   
-![image](https://github.com/user-attachments/assets/bbeaceab-fd8e-48dc-984d-a45b0fbf6206)
+![image](https://github.com/user-attachments/assets/4f0381c5-03eb-48e0-9cf7-dbf5b19cf287)
 
-![image](https://github.com/user-attachments/assets/9177a9f9-7b3d-4244-a28b-4870e93f0699)
+
+
+
+![image](https://github.com/user-attachments/assets/4372c362-850b-4ce6-817b-756a24aa754b)
+
+
+
+
 
 
 <b>Sorting and Naming the Shortcuts:</B>  
