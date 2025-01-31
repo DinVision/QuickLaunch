@@ -18,7 +18,9 @@ Version 1.0.54.0: Display icons without shortcut arrow, added options in INI fil
 </b>  
 Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose.  
   
-![image](https://github.com/user-attachments/assets/4f0381c5-03eb-48e0-9cf7-dbf5b19cf287)
+![image](https://github.com/user-attachments/assets/3569ca71-4973-4d9f-87c5-aa44d54ff68b)
+
+
 
 
 
