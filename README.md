@@ -7,10 +7,11 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 <b>Updates in new verisons  ![image](https://github.com/user-attachments/assets/9ca49cb0-9956-47aa-a1fb-9bfc80e21a91)
 </b>  
 Jan 31, 2025:   
-Version 1.0.57.0: Added function to create ICO icons from Image files, added options in INI file to resize Control Buttons.  
+Version 1.0.57.0: Added function to create ICO icons from Image files, added options in INI file to resize Control Buttons ![image](https://github.com/user-attachments/assets/48ed36f0-42fb-48c3-b682-5d6f990eba77)
+.  
 Jan 27, 2025:  
 Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creating sub-folders.  
-Version 1.0.54.0: Display icons without shortcut arrow, added options in "ini" file to show Toolbar Border, change Shortcut Text Color.    
+Version 1.0.54.0: Display icons without shortcut arrow, added options in INI file to show Toolbar Border, change Shortcut Text Color.    
   
 <b>Group Shortcuts  ![image](https://github.com/user-attachments/assets/82d5596f-9b4b-404a-94a0-8b43a956166b)
 </b>  
@@ -31,13 +32,13 @@ Then, if you need to insert new shortcuts in-between, use the in-between numeric
 The 3-digit numeric prefix is automatically hidden in the Shortcut ToolTip.  
 
 <b>Customization:</B>  
-The Toolbar can be customized by modifying the values in the "ini" file as shown in the Demo video. 
+The Toolbar can be customized by modifying the values in the INI file as shown in the Demo video. 
 
 <b>Troubleshooting:</B>  
-If you mess up the ini file settings, and do not have backup, you can just close the App, delete the ini file and restart the App, it will automatically re-create the ini file with default settings.
+If you mess up the INI file settings, and do not have backup, you can just close the App, delete the INI file and restart the App, it will automatically re-create the INI file with default settings.
 
 <B>Taskbar Display Setting:</B>  
-For older versions, if you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the ini file. Restart the App. Then the App will be displayed in the Taskbar only when you minimize it.  
+For older versions, if you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the INI file. Restart the App. Then the App will be displayed in the Taskbar only when you minimize it.  
 ![image](https://github.com/user-attachments/assets/32530b33-bbfe-4917-9355-ef02efb3f6e6)
 
 
