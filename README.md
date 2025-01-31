@@ -6,6 +6,8 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 
 <b>Updates in new verisons  ![image](https://github.com/user-attachments/assets/9ca49cb0-9956-47aa-a1fb-9bfc80e21a91)
 </b>  
+Jan 31, 2025:   
+Version 1.0.57.0: Added function to create ICO icons from Image files, added options in INI file to resize Control Buttons.  
 Jan 27, 2025:  
 Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creating sub-folders.  
 Version 1.0.54.0: Display icons without shortcut arrow, added options in "ini" file to show Toolbar Border, change Shortcut Text Color.    
