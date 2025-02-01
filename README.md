@@ -22,6 +22,13 @@ Create sub-folders to display shortcuts in separate groups as shown in example b
 
 ![image](https://github.com/user-attachments/assets/4372c362-850b-4ce6-817b-756a24aa754b)
 
+<b>Create Icons  ![image](https://github.com/user-attachments/assets/82d5596f-9b4b-404a-94a0-8b43a956166b)
+</b>  
+Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert to ICO file that you can use as Icons for your shortcuts. See this short YouTube Video [Create Icons from Image](https://www.youtube.com/watch?v=xGHXstfHCos) to see demonstration of this feature.  
+  
+![image](https://github.com/user-attachments/assets/c3052566-ed38-4a14-92e5-c92cb23f0967) 
+
+
 <b>Sorting and Naming the Shortcuts:</B>  
 For easy sorting, name the Shortcuts with 3 digit numeric prefix as example below.    
 "010 Paint"  
