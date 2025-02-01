@@ -72,17 +72,10 @@ See this YouTube Video [How to customize Icons Display](https://www.youtube.com/
 |![image](https://github.com/user-attachments/assets/ff0b5b9e-7aa2-4bb1-b960-37d6176d6042)  | <sub>ButtonSizeWidth=80<br>ButtonSizeHeight=75<br>IconSizeWidth=32<br>IconSizeHeight=32<br>ShowButtonText=Yes<br>ToolbarColor=DarkSlateGray<br>ButtonTextImageRelation=ImageAboveText<br>ButtonImageAlign=TopCenter<br>ButtonTextAlign=MiddleCenter<br>ToolbarBorder=Yes<br>ToolbarBorderColor=DarkGray<br>ButtonTextColor=White</sub> |
 
 
-| Toolbar Display                                                                                             | ini settings                                                                                                                                                                                      |
-|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/d89f2772-5864-4745-81b4-087772cfab7e) | <sub>ButtonSizeWidth=80<br>ButtonSizeHeight=75<br>IconSizeWidth=32<br>IconSizeHeight=32<br>ShowButtonText=Yes<br>ToolbarColor=DarkOrange<br>ButtonTextImageRelation=ImageAboveText<br>ButtonImageAlign=TopCenter<br>ButtonTextAlign=MiddleCenter</sub> |
-
-
-
-
 
 | Toolbar Display                                                                                             | ini settings                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/c1b05bf8-4f87-4910-9371-276e3593cc46)| <sub>ButtonSizeWidth=150<br>ButtonSizeHeight=36<br>IconSizeWidth=24<br>IconSizeHeight=24<br>ButtonBorderSize=1<br>ShowButtonText=Yes<br>ToolbarColor=LightCoral<br>ButtonTextImageRelation=ImageBeforeText<br>ButtonImageAlign=MiddleLeft<br>ButtonTextAlign=MiddleLeft</sub> |
+|![image](https://github.com/user-attachments/assets/b66a857f-b871-416b-a523-68b01631b712) | <sub>ButtonSizeWidth=130<br>ButtonSizeHeight=36<br>IconSizeWidth=24<br>IconSizeHeight=24<br>ButtonBorderSize=1<br>ShowButtonText=Yes<br>ToolbarColor=Pink<br>ButtonTextImageRelation=ImageBeforeText<br>ButtonImageAlign=MiddleLeft<br>ButtonTextAlign=MiddleLeft<br>ToolbarBorderColor=RosyBrown</sub> |
 
 <B> End </B>
 
