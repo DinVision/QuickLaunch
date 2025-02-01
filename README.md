@@ -20,17 +20,7 @@ Create sub-folders to display shortcuts in separate groups as shown in example b
   
 ![image](https://github.com/user-attachments/assets/3569ca71-4973-4d9f-87c5-aa44d54ff68b)
 
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/4372c362-850b-4ce6-817b-756a24aa754b)
-
-
-
-
-
 
 <b>Sorting and Naming the Shortcuts:</B>  
 For easy sorting, name the Shortcuts with 3 digit numeric prefix as example below.    
@@ -46,12 +36,6 @@ The Toolbar can be customized by modifying the values in the INI file as shown i
 
 <b>Troubleshooting:</B>  
 If you mess up the INI file settings, and do not have backup, you can just close the App, delete the INI file and restart the App, it will automatically re-create the INI file with default settings.
-
-<B>Taskbar Display Setting:</B>  
-For older versions, if you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the INI file. Restart the App. Then the App will be displayed in the Taskbar only when you minimize it.  
-![image](https://github.com/user-attachments/assets/32530b33-bbfe-4917-9355-ef02efb3f6e6)
-
-
 
 <b>How to change Toolbar Color:</B>  
 To change the color of the Toolbar, change the Color name for the "ToolbarColor" parameter, you can choose color name from the following list  
@@ -76,6 +60,11 @@ See this YouTube Video [How to customize Icons Display](https://www.youtube.com/
 | Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |![image](https://github.com/user-attachments/assets/b66a857f-b871-416b-a523-68b01631b712) | <sub>ButtonSizeWidth=130<br>ButtonSizeHeight=36<br>IconSizeWidth=24<br>IconSizeHeight=24<br>ButtonBorderSize=1<br>ShowButtonText=Yes<br>ToolbarColor=Pink<br>ButtonTextImageRelation=ImageBeforeText<br>ButtonImageAlign=MiddleLeft<br>ButtonTextAlign=MiddleLeft<br>ToolbarBorderColor=RosyBrown</sub> |
+
+<B>Taskbar Display Setting:</B>  
+For older versions, if you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the INI file. Restart the App. Then the App will be displayed in the Taskbar only when you minimize it.  
+![image](https://github.com/user-attachments/assets/32530b33-bbfe-4917-9355-ef02efb3f6e6)
+
 
 <B> End </B>
 
