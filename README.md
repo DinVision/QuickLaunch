@@ -51,15 +51,17 @@ Save the "ini" file, close and re-open the Toolbar to apply changes.
 <b>How to customize Icons Display:</B>  
 See this YouTube Video [How to customize Icons Display](https://www.youtube.com/watch?v=RTC05oaLqeM) to see demonstration of the configuration such as following.
 
+
+| Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|![image](https://github.com/user-attachments/assets/b66a857f-b871-416b-a523-68b01631b712) | <sub>ButtonSizeWidth=130<br>ButtonSizeHeight=36<br>IconSizeWidth=24<br>IconSizeHeight=24<br>ButtonBorderSize=1<br>ShowButtonText=Yes<br>ToolbarColor=Pink<br>ButtonTextImageRelation=ImageBeforeText<br>ButtonImageAlign=MiddleLeft<br>ButtonTextAlign=MiddleLeft<br>ToolbarBorderColor=RosyBrown</sub> |
+
+
 | Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |![image](https://github.com/user-attachments/assets/83a755ba-b222-42b8-83c6-61a45e4b0caa)  | <sub>ButtonSizeWidth=80<br>ButtonSizeHeight=75<br>IconSizeWidth=32<br>IconSizeHeight=32<br>ShowButtonText=Yes<br>ToolbarColor=DarkSlateGray<br>ButtonTextImageRelation=ImageAboveText<br>ButtonImageAlign=TopCenter<br>ButtonTextAlign=MiddleCenter<br>ToolbarBorderColor=DarkGray<br>ButtonTextColor=White<br>FolderTextColor=White</sub> |
 
 
-
-| Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
-|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|![image](https://github.com/user-attachments/assets/b66a857f-b871-416b-a523-68b01631b712) | <sub>ButtonSizeWidth=130<br>ButtonSizeHeight=36<br>IconSizeWidth=24<br>IconSizeHeight=24<br>ButtonBorderSize=1<br>ShowButtonText=Yes<br>ToolbarColor=Pink<br>ButtonTextImageRelation=ImageBeforeText<br>ButtonImageAlign=MiddleLeft<br>ButtonTextAlign=MiddleLeft<br>ToolbarBorderColor=RosyBrown</sub> |
 
 <B>Taskbar Display Setting:</B>  
 For older versions, if you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the INI file. Restart the App. Then the App will be displayed in the Taskbar only when you minimize it.  
