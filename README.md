@@ -47,7 +47,8 @@ ToolbarBorder=Yes
 ToolbarBorderColor=Green  
 Save the "ini" file, close and re-open the Toolbar to apply changes.  
 
-![image](https://github.com/user-attachments/assets/4f5ab5e1-d552-4e9d-b784-4104081970e6)
+![image](https://github.com/user-attachments/assets/d1c69e39-62f4-4635-8d41-3b515a457f8d)
+
 
 <b>How to customize Icons Display:</B>  
 See this YouTube Video [How to customize Icons Display](https://www.youtube.com/watch?v=RTC05oaLqeM) to see demonstration of the configuration such as following.
