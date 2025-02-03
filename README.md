@@ -18,15 +18,9 @@ Version 1.0.54.0: Display icons without shortcut arrow, added options in INI fil
 </b>  
 Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose.  
   
-![image](https://github.com/user-attachments/assets/3569ca71-4973-4d9f-87c5-aa44d54ff68b)
+![image](https://github.com/user-attachments/assets/3e600486-8af4-47ee-9ef5-24b759153d74)
 
-![image](https://github.com/user-attachments/assets/4372c362-850b-4ce6-817b-756a24aa754b)
-
-<b>Create Icons  ![image](https://github.com/user-attachments/assets/82d5596f-9b4b-404a-94a0-8b43a956166b)
-</b>  
-Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert to ICO file that you can use as Icons for your shortcuts. See this short YouTube Video [Create Icons from Image](https://www.youtube.com/watch?v=xGHXstfHCos) to see demonstration of this feature.  
-  
-![image](https://github.com/user-attachments/assets/c3052566-ed38-4a14-92e5-c92cb23f0967) 
+![image](https://github.com/user-attachments/assets/8666a9e4-fc74-4f58-ac66-d4e4c5f441cf)
 
 
 <b>Sorting and Naming the Shortcuts:</B>  
@@ -67,6 +61,13 @@ See this YouTube Video [How to customize Icons Display](https://www.youtube.com/
 | Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |![image](https://github.com/user-attachments/assets/83a755ba-b222-42b8-83c6-61a45e4b0caa)  | <sub>ButtonSizeWidth=80<br>ButtonSizeHeight=75<br>IconSizeWidth=32<br>IconSizeHeight=32<br>ShowButtonText=Yes<br>ToolbarColor=DarkSlateGray<br>ButtonTextImageRelation=ImageAboveText<br>ButtonImageAlign=TopCenter<br>ButtonTextAlign=MiddleCenter<br>ToolbarBorderColor=DarkGray<br>ButtonTextColor=White<br>FolderTextColor=White</sub> |
+
+
+<b>Create Icons  ![image](https://github.com/user-attachments/assets/82d5596f-9b4b-404a-94a0-8b43a956166b)
+</b>  
+Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert to ICO file that you can use as Icons for your shortcuts. See this short YouTube Video [Create Icons from Image](https://www.youtube.com/watch?v=xGHXstfHCos) to see demonstration of this feature.  
+  
+![image](https://github.com/user-attachments/assets/e68b01ac-e314-4863-a7d0-6adf73562725)
 
 
 
