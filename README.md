@@ -71,6 +71,13 @@ Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert t
 ![image](https://github.com/user-attachments/assets/e68b01ac-e314-4863-a7d0-6adf73562725)
 
 
+<B>Website Shortcuts:</B>  
+To add shortcuts to specific websites, make copy of the shortcut of the Browser such as Edge. Open Properties, add the Website address at the end of the Target value. Change Icon as per your preference.   
+
+![image](https://github.com/user-attachments/assets/1a3724b4-8329-4ef1-a25b-838fed9abcce)
+
+
+
 
 <B>Taskbar Display Setting:</B>  
 For older versions, if you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the INI file. Restart the App. Then the App will be displayed in the Taskbar only when you minimize it.  
