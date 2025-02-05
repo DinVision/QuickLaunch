@@ -66,7 +66,9 @@ See this YouTube Video [How to customize Icons Display](https://www.youtube.com/
 <B>Website Shortcuts:</B>  
 To add shortcuts to specific websites, make copy of the shortcut of the Browser such as Edge. Open Properties, add the Website address at the end of the Target value. Change Icon as per your preference.   
 
-![image](https://github.com/user-attachments/assets/1a3724b4-8329-4ef1-a25b-838fed9abcce)
+![image](https://github.com/user-attachments/assets/716e5954-8b74-4841-b688-321b54042c1a)
+
+
 
 
 
