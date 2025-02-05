@@ -63,6 +63,12 @@ See this YouTube Video [How to customize Icons Display](https://www.youtube.com/
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |![image](https://github.com/user-attachments/assets/83a755ba-b222-42b8-83c6-61a45e4b0caa)  | <sub>ButtonSizeWidth=80<br>ButtonSizeHeight=75<br>IconSizeWidth=32<br>IconSizeHeight=32<br>ShowButtonText=Yes<br>ToolbarColor=DarkSlateGray<br>ButtonTextImageRelation=ImageAboveText<br>ButtonImageAlign=TopCenter<br>ButtonTextAlign=MiddleCenter<br>ToolbarBorderColor=DarkGray<br>ButtonTextColor=White<br>FolderTextColor=White</sub> |
 
+<B>Website Shortcuts:</B>  
+To add shortcuts to specific websites, make copy of the shortcut of the Browser such as Edge. Open Properties, add the Website address at the end of the Target value. Change Icon as per your preference.   
+
+![image](https://github.com/user-attachments/assets/1a3724b4-8329-4ef1-a25b-838fed9abcce)
+
+
 
 <b>Create Icons  ![image](https://github.com/user-attachments/assets/82d5596f-9b4b-404a-94a0-8b43a956166b)
 </b>  
@@ -71,10 +77,6 @@ Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert t
 ![image](https://github.com/user-attachments/assets/e68b01ac-e314-4863-a7d0-6adf73562725)
 
 
-<B>Website Shortcuts:</B>  
-To add shortcuts to specific websites, make copy of the shortcut of the Browser such as Edge. Open Properties, add the Website address at the end of the Target value. Change Icon as per your preference.   
-
-![image](https://github.com/user-attachments/assets/1a3724b4-8329-4ef1-a25b-838fed9abcce)
 
 
 
