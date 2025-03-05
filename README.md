@@ -4,8 +4,12 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
-<b>Updates in new verisons  ![image](https://github.com/user-attachments/assets/9ca49cb0-9956-47aa-a1fb-9bfc80e21a91)
-</b>  
+<B>Rate this App:</B>  
+Please take a moment to Rate this App. Click on "Rate" in the App Settings.
+![image](https://github.com/user-attachments/assets/3c05bea9-c5a1-4ebe-954b-2e0b3e3482a4)
+
+
+<b>Updates in new verisons  </b>  
 Jan 31, 2025:   
 Version 1.0.57.0: Added function ![image](https://github.com/user-attachments/assets/3180731b-d9ea-4689-b9e7-d58f06006d7d)
 to create ICO icons from Image files, added options in INI file to resize Control Buttons ![image](https://github.com/user-attachments/assets/48ed36f0-42fb-48c3-b682-5d6f990eba77)
@@ -14,8 +18,7 @@ Jan 27, 2025:
 Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creating sub-folders.  
 Version 1.0.54.0: Display icons without shortcut arrow, added options in INI file to show Toolbar Border, change Shortcut Text Color.    
   
-<b>Group Shortcuts  ![image](https://github.com/user-attachments/assets/82d5596f-9b4b-404a-94a0-8b43a956166b)
-</b>  
+<b>Group Shortcuts  </b>  
 Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose.  
   
 ![image](https://github.com/user-attachments/assets/3e600486-8af4-47ee-9ef5-24b759153d74)
@@ -72,8 +75,7 @@ To add shortcuts to specific websites, make copy of the shortcut of the Browser 
 
 
 
-<b>Create Icons  ![image](https://github.com/user-attachments/assets/82d5596f-9b4b-404a-94a0-8b43a956166b)
-</b>  
+<b>Create Icons  </b>  
 Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert to ICO file that you can use as Icons for your shortcuts. See this short YouTube Video [Create Icons from Image](https://www.youtube.com/watch?v=xGHXstfHCos) to see demonstration of this feature.  
   
 ![image](https://github.com/user-attachments/assets/e68b01ac-e314-4863-a7d0-6adf73562725)
