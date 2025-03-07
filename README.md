@@ -4,11 +4,6 @@ For any inquiries on this App, please email us at dinvision.bc@gmail.com
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
-<B>Rate this App:</B>  
-Please take a moment to Rate this App. Click on "Rate" in the App Settings.
-![image](https://github.com/user-attachments/assets/3c05bea9-c5a1-4ebe-954b-2e0b3e3482a4)
-
-
 <b>Updates in new verisons  </b>  
 Jan 31, 2025:   
 Version 1.0.57.0: Added function ![image](https://github.com/user-attachments/assets/3180731b-d9ea-4689-b9e7-d58f06006d7d)
@@ -59,7 +54,7 @@ See this YouTube Video [How to customize Icons Display](https://www.youtube.com/
 
 | Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|![image](https://github.com/user-attachments/assets/b66a857f-b871-416b-a523-68b01631b712) | <sub>ButtonSizeWidth=130<br>ButtonSizeHeight=36<br>IconSizeWidth=24<br>IconSizeHeight=24<br>ButtonBorderSize=1<br>ShowButtonText=Yes<br>ToolbarColor=Pink<br>ButtonTextImageRelation=ImageBeforeText<br>ButtonImageAlign=MiddleLeft<br>ButtonTextAlign=MiddleLeft<br>ToolbarBorderColor=RosyBrown</sub> |
+|![image](https://github.com/user-attachments/assets/b47e8b9d-a415-4fe2-b8e5-cc2de4d29c3d)  | <sub>ButtonSizeWidth=130<br>ButtonSizeHeight=36<br>IconSizeWidth=24<br>IconSizeHeight=24<br>ButtonBorderSize=1<br>ShowButtonText=Yes<br>ToolbarColor=Pink<br>ButtonTextImageRelation=ImageBeforeText<br>ButtonImageAlign=TopLeft<br>ButtonTextAlign=MiddleLeft<br>ToolbarBorderColor=RosyBrown<br>ButtonBorderColor=RosyBrown<br>SpaceBeforeButtonText=Yes</sub> |
 
 
 | Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
@@ -71,24 +66,19 @@ To add shortcuts to specific websites, make copy of the shortcut of the Browser 
 
 ![image](https://github.com/user-attachments/assets/716e5954-8b74-4841-b688-321b54042c1a)
 
-
-
-
-
 <b>Create Icons  </b>  
 Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert to ICO file that you can use as Icons for your shortcuts. See this short YouTube Video [Create Icons from Image](https://www.youtube.com/watch?v=xGHXstfHCos) to see demonstration of this feature.  
   
 ![image](https://github.com/user-attachments/assets/e68b01ac-e314-4863-a7d0-6adf73562725)
 
 
-
-
-
-
 <B>Taskbar Display Setting:</B>  
 For older versions, if you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the INI file. Restart the App. Then the App will be displayed in the Taskbar only when you minimize it.  
 ![image](https://github.com/user-attachments/assets/32530b33-bbfe-4917-9355-ef02efb3f6e6)
 
+<B>Rate this App:</B>  
+Please take a moment to Rate this App. Click on "Rate" in the App Settings.
+![image](https://github.com/user-attachments/assets/3c05bea9-c5a1-4ebe-954b-2e0b3e3482a4)
 
 <B> End </B>
 
