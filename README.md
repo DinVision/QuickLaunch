@@ -1,20 +1,18 @@
 <b> About the App: </b>  
 *Din Quick Launch Toolbar* App is a simple App with auto-hide feature for Windows 11/10 to manage Shortcuts. This App is available on Microsoft Store. See following YouTube Video for a quick demonstration of the App.   
-For any inquiries on this App, please email us at dinvision.bc@gmail.com
+For any inquiries on this App, please email dinvision.bc@gmail.com
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
 <b>Updates in new verisons  </b>  
-Jan 31, 2025:   
-Version 1.0.57.0: Added function ![image](https://github.com/user-attachments/assets/3180731b-d9ea-4689-b9e7-d58f06006d7d)
-to create ICO icons from Image files, added options in INI file to resize Control Buttons ![image](https://github.com/user-attachments/assets/48ed36f0-42fb-48c3-b682-5d6f990eba77)
-.  
-Jan 27, 2025:  
+Version 1.0.59.0: Added options to INI file to select Background Image, option to "Run as administrator" using Shift Key.  
+Version 1.0.57.0: Added function ![image](https://github.com/user-attachments/assets/3180731b-d9ea-4689-b9e7-d58f06006d7d) 
+to create ICO icons from Image files, added options in INI file to resize Control Buttons ![image](https://github.com/user-attachments/assets/48ed36f0-42fb-48c3-b682-5d6f990eba77)  
 Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creating sub-folders.  
 Version 1.0.54.0: Display icons without shortcut arrow, added options in INI file to show Toolbar Border, change Shortcut Text Color.    
   
-<b>Group Shortcuts  </b>  
-Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose.  
+<b>Add and Group Shortcuts  </b>  
+The shortcuts for the Toolbar are in the "Shortcuts" Folder that can be opened as shown below. Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose.  
   
 ![image](https://github.com/user-attachments/assets/3e600486-8af4-47ee-9ef5-24b759153d74)
 
@@ -30,11 +28,24 @@ Then, if you need to insert new shortcuts in-between, use the in-between numeric
 "015 Outlook"  
 The 3-digit numeric prefix is automatically hidden in the Shortcut ToolTip.  
 
+<B>Website Shortcuts:</B>  
+To add shortcuts to specific websites, make copy of the shortcut of the Browser such as Edge. Open Properties, add the Website address at the end of the Target value. Change Icon as per your preference.   
+
+![image](https://github.com/user-attachments/assets/716e5954-8b74-4841-b688-321b54042c1a)
+
+<B>Run as Administrator: (version 1.0.59.0+) </B>  
+To run any app as an administrator, hold the Shift key on the keyboard while clicking the app icon. 
+
 <b>Customization:</B>  
 The Toolbar can be customized by modifying the values in the INI file as shown in the Demo video. 
 
 <b>Troubleshooting:</B>  
 If you mess up the INI file settings, and do not have backup, you can just close the App, delete the INI file and restart the App, it will automatically re-create the INI file with default settings.
+
+<B>Background Image: (version 1.0.59.0+) </B>  
+To set a background image, enter the image file path in the "BackgroundImagePath" setting of the INI file, as shown in example below. Use small image files (under 100 KB) to prevent slow loading. Close and reopen the app to apply the changes.  
+
+![image](https://github.com/user-attachments/assets/1874df0e-2e52-4b3f-8399-85d81adeea6f)
 
 <b>How to change Toolbar Color:</B>  
 To change the color of the Toolbar, change the Color name for the "ToolbarColor" parameter, you can choose color name from the following list  
@@ -61,10 +72,6 @@ See this YouTube Video [How to customize Icons Display](https://www.youtube.com/
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |![image](https://github.com/user-attachments/assets/83a755ba-b222-42b8-83c6-61a45e4b0caa)  | <sub>ButtonSizeWidth=80<br>ButtonSizeHeight=75<br>IconSizeWidth=32<br>IconSizeHeight=32<br>ShowButtonText=Yes<br>ToolbarColor=DarkSlateGray<br>ButtonTextImageRelation=ImageAboveText<br>ButtonImageAlign=TopCenter<br>ButtonTextAlign=MiddleCenter<br>ToolbarBorderColor=DarkGray<br>ButtonTextColor=White<br>FolderTextColor=White</sub> |
 
-<B>Website Shortcuts:</B>  
-To add shortcuts to specific websites, make copy of the shortcut of the Browser such as Edge. Open Properties, add the Website address at the end of the Target value. Change Icon as per your preference.   
-
-![image](https://github.com/user-attachments/assets/716e5954-8b74-4841-b688-321b54042c1a)
 
 <b>Create Icons  </b>  
 Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert to ICO file that you can use as Icons for your shortcuts. See this short YouTube Video [Create Icons from Image](https://www.youtube.com/watch?v=xGHXstfHCos) to see demonstration of this feature.  
