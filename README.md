@@ -63,7 +63,7 @@ Save the "ini" file, close and re-open the Toolbar to apply changes.
 
 
 <b>How to customize Icons Display:</B>  
-See this YouTube Video [How to customize Icons Display](https://www.youtube.com/watch?v=RTC05oaLqeM) to see demonstration of the configuration such as following.
+See this YouTube Video [How to customize Icons Display](https://www.youtube.com/watch?v=RTC05oaLqeM) to see demonstration of the configuration such as following. Download the INI files from [INI Files](https://github.com/DinVision/QuickLaunch/tree/Main/INI_Files) Folder  
 
 
 | Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
