@@ -10,9 +10,12 @@ Version 1.0.57.0: Added function ![image](https://github.com/user-attachments/as
 to create ICO icons from Image files, added options in INI file to resize Control Buttons ![image](https://github.com/user-attachments/assets/48ed36f0-42fb-48c3-b682-5d6f990eba77)  
 Version 1.0.55.0: Added support for grouping shortcuts in the Toolbar by creating sub-folders.  
 Version 1.0.54.0: Display icons without shortcut arrow, added options in INI file to show Toolbar Border, change Shortcut Text Color.    
-  
+
+<b>Auto-Hide  </b>  
+To enable Auto-Hide, position the toolbar so that it touches the side or top edge of the screen. The toolbar will then automatically hide when you move the mouse away from it.  
+
 <b>Add and Group Shortcuts  </b>  
-The shortcuts for the Toolbar are in the "Shortcuts" Folder that can be opened as shown below. Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose.  
+The shortcuts for the Toolbar are in the "Shortcuts" Folder that can be opened as shown below. Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose. The toolbar can be resized and moved as per preference.  
   
 ![image](https://github.com/user-attachments/assets/3e600486-8af4-47ee-9ef5-24b759153d74)
 
