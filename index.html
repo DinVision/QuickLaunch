@@ -1,82 +1,203 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Din Quick Launch Toolbar</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 80px;
-	    padding-top: 10px;
-            background-color: #f4f4f4;
-        }
-        h1 {
-            color: #333;
-            font-size: 24px;
-        }
-        h2 {
-            color: #555;
-            font-size: 20px;
-        }
-        p {
-            color: #666;
-            font-size: 14px;
-            line-height: 1.6;
-        }
-        ul {
-            font-size: 14px;
-            line-height: 1.6;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        iframe {
-            margin-top: 20px;
-            border: none;
-        }
-        footer {
-            margin-top: 40px;
-            text-align: center;
-            font-size: 14px;
-            color: #777;
-        }
-    </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Din Quick Launch – About & Guide</title>
+<style>
+  /* Base typography */
+  body {
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;   /* base size */
+    line-height: 1.6;
+    margin: 24px;
+    color: #111;
+  }
+
+  /* Heading scale (consistent) */
+  h1 {
+    font-size: 22px;   /* main page title */
+    line-height: 1.25;
+    margin: 0 0 0.6em 0;
+  }
+  h2 {
+    font-size: 18px;   /* section title */
+    line-height: 1.0;
+    margin: 0.2em 0 0.1em;
+  }
+  h3 {
+    font-size: 16px;   /* sub-section (same as body but bold) */
+    line-height: 1.4;
+    margin: 0.8em 0 0.4em;
+  }
+
+  p, li, td, th {
+    font-size: 16px;   /* ensure consistency */
+  }
+
+  /* Links & media */
+  a { color: #0b5bd3; }
+  img { max-width: 100%; height: auto; }
+
+  /* Tables */
+  table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+  th, td { border: 1px solid #ccc; padding: 8px 10px; vertical-align: top; text-align: left; }
+
+  /* Small notes inside tables */
+  sub {
+    font-size: 14px;   /* readable but slightly smaller */
+    line-height: 1.4;
+    display: inline-block;
+  }
+
+  /* Thumbnail frame for video preview */
+  .thumb { display: inline-block; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; }
+</style>
 </head>
 <body>
 
-    <h1>Din Quick Launch Toolbar</h1>
+<h1>Din Quick Launch Toolbar</h1>
+<p><em>Din Quick Launch Toolbar</em> is a simple Windows 11/10 app with an auto-hide feature to manage shortcuts. It’s available on the 
+<a href="https://apps.microsoft.com/detail/9n7nxtc0kbks" target="_blank" rel="noopener">Microsoft Store</a>. See the YouTube video below for a quick demonstration.</p>
+<p>For any inquiries on this app, please email <a href="mailto:dinvision.bc@gmail.com">dinvision.bc@gmail.com</a>.</p>
 
-    <h2>Overview</h2>
-    <p>Din Quick Launch Toolbar is a sleek, customizable auto-hide toolbar designed for Windows 10/11. It offers an efficient way to manage and access your shortcuts, providing a streamlined alternative to the traditional Quick Launch feature.</p>
-    <h2>Features</h2>
-    <ul>
-        <li>Customizable with auto-hide functionality</li>
-        <li>Quick access to frequently used applications</li>
-        <li>Simplified, minimalistic design</li>
-        <li>Compatible with Windows 10/11</li>
-    </ul>
 
-    <h2>Demo Video</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ioM-3ewWOJ0" 
-    title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>See Demo Video</h2>
+<p>
+  <a class="thumb" href="https://www.youtube.com/watch?v=548o5cCr1VA" target="_blank" rel="noopener">
+    <img src="https://img.youtube.com/vi/548o5cCr1VA/0.jpg" alt="Quick Launch Toolbar Demo (YouTube thumbnail)" />
+  </a>
+</p>
 
-    <h2>Get it on Microsoft Store</h2>
-    <p>You can download Din Quick Launch Toolbar from the <a href="https://apps.microsoft.com/detail/9n7nxtc0kbks" target="_blank">Microsoft Store</a>.</p>
+<h2>Auto-Hide</h2>
+<p>To enable Auto-Hide, position the toolbar so it touches the side or top edge of the screen. The toolbar will then automatically hide when you move the mouse away from it.</p>
 
-    <h2>Help and Support</h2>
-    <p>For assistance and support, please visit our <a href="https://github.com/DinVision/QuickLaunch/" target="_blank">GitHub page</a>.</p>
-    <p>For inquiries, contact us at <a href="mailto:dinvision.bc@gmail.com">dinvision.bc@gmail.com</a>.</p>
-    
+<h2>Add and Group Shortcuts</h2>
+<p>The shortcuts for the toolbar are in the “Shortcuts” folder that can be opened as shown below. Create sub-folders to display shortcuts in separate groups as shown in the example. The 3-digit prefix is for sorting. The toolbar can be resized and moved as preferred.</p>
 
-    <footer>
-        &copy; 2024 Din Vision. All rights reserved.
-    </footer>
+<p><img src="https://github.com/user-attachments/assets/3e600486-8af4-47ee-9ef5-24b759153d74" alt="Open shortcuts folder" /></p>
+<p><img src="https://github.com/user-attachments/assets/8666a9e4-fc74-4f58-ac66-d4e4c5f441cf" alt="Grouped shortcuts example" /></p>
+
+<h2>Sorting and Naming the Shortcuts</h2>
+<br>For easy sorting, name the shortcuts with a 3-digit numeric prefix as below:
+<br>"010 Paint"
+<br>"020 Notepad"
+<br>"030 Excel"
+<br>If you need to insert new shortcuts in between, use an in-between numeric prefix, e.g.:
+<br>"015 Outlook"
+<br>The 3-digit numeric prefix is automatically hidden in the shortcut tooltip.<br><br>
+
+<h2>Website Shortcuts</h2>
+<p>To add shortcuts to specific websites, copy the shortcut of your browser (e.g., Edge). Open Properties, add the website address at the end of the <em>Target</em> value, and change the icon as preferred.</p>
+<p><img src="https://github.com/user-attachments/assets/716e5954-8b74-4841-b688-321b54042c1a" alt="Browser shortcut properties example" /></p>
+
+<h2>Run as Administrator (v1.0.59.0+)</h2>
+<p>To run any app as an administrator, hold the <strong>Shift</strong> key while clicking the app icon.</p>
+
+<h2>Customization</h2>
+<p>The toolbar can be customized by modifying values in the INI file (see the demo video).</p>
+
+<h2>Troubleshooting</h2>
+<p>If you change INI settings and don’t have a backup, you can close the app, delete the INI file, and restart the app; it will re-create the INI file with default settings.</p>
+
+<h2>Background Image (v1.0.59.0+)</h2>
+<p>To set a background image, enter the image file path in the <code>BackgroundImagePath</code> setting of the INI file (see example below). Use small image files (under 100 KB) to prevent slow loading. Close and reopen the app to apply changes.</p>
+<p><img src="https://github.com/user-attachments/assets/1874df0e-2e52-4b3f-8399-85d81adeea6f" alt="Background image INI example" /></p>
+
+<h2>How to change Toolbar Color</h2>
+<p>Change the color name for the <code>ToolbarColor</code> parameter (choose a color from the
+<a href="https://learn.microsoft.com/en-us/dotnet/media/art-color-table.png?view=windowsdesktop-8.0" target="_blank" rel="noopener">Color Names List</a>).
+For example (v1.0.52.0+):</p>
+<pre>ToolbarColor=LightBlue
+ToolbarBorder=Yes
+ToolbarBorderColor=Green</pre>
+<p>Save the INI file, then close and re-open the toolbar to apply changes.</p>
+<p><img src="https://github.com/user-attachments/assets/d1c69e39-62f4-4635-8d41-3b515a457f8d" alt="Toolbar color example" /></p>
+
+<h2>How to customize Icons Display</h2>
+<p>See this YouTube video:
+<a href="https://www.youtube.com/watch?v=RTC05oaLqeM" target="_blank" rel="noopener">How to customize Icons Display</a>
+for a demonstration of configurations like the following. Download INI files from the
+<a href="https://github.com/DinVision/QuickLaunch/tree/Main/INI_Files" target="_blank" rel="noopener">INI Files folder</a>.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Toolbar Display</th>
+      <th>INI settings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/b47e8b9d-a415-4fe2-b8e5-cc2de4d29c3d" alt="Display style 1" /></td>
+      <td>
+        <sub>
+          ButtonSizeWidth=130<br>
+          ButtonSizeHeight=36<br>
+          IconSizeWidth=24<br>
+          IconSizeHeight=24<br>
+          ButtonBorderSize=1<br>
+          ShowButtonText=Yes<br>
+          ToolbarColor=Pink<br>
+          ButtonTextImageRelation=ImageBeforeText<br>
+          ButtonImageAlign=TopLeft<br>
+          ButtonTextAlign=MiddleLeft<br>
+          ToolbarBorderColor=RosyBrown<br>
+          ButtonBorderColor=RosyBrown<br>
+          SpaceBeforeButtonText=Yes
+        </sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Toolbar Display</th>
+      <th>INI settings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/83a755ba-b222-42b8-83c6-61a45e4b0caa" alt="Display style 2" /></td>
+      <td>
+        <sub>
+          ButtonSizeWidth=80<br>
+          ButtonSizeHeight=75<br>
+          IconSizeWidth=32<br>
+          IconSizeHeight=32<br>
+          ShowButtonText=Yes<br>
+          ToolbarColor=DarkSlateGray<br>
+          ButtonTextImageRelation=ImageAboveText<br>
+          ButtonImageAlign=TopCenter<br>
+          ButtonTextAlign=MiddleCenter<br>
+          ToolbarBorderColor=DarkGray<br>
+          ButtonTextColor=White<br>
+          FolderTextColor=White
+        </sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Create Icons</h2>
+<p>Use the <em>Create Icon</em> button to select image files (JPEG, PNG, BMP, GIF) and convert them to ICO files for your shortcuts. See this short video:
+<a href="https://www.youtube.com/watch?v=xGHXstfHCos" target="_blank" rel="noopener">Create Icons from Image</a>.</p>
+<p><img src="https://github.com/user-attachments/assets/e68b01ac-e314-4863-a7d0-6adf73562725" alt="Create icons UI" /></p>
+
+<h2>Taskbar Display Setting</h2>
+<p>For older versions, if you prefer not to display the app in the Taskbar, set <code>AlwaysShowOnTaskbar=No</code> in the INI file. Restart the app. The app will be shown in the Taskbar only when minimized.</p>
+<p><img src="https://github.com/user-attachments/assets/32530b33-bbfe-4917-9355-ef02efb3f6e6" alt="Taskbar setting" /></p>
+
+<h2>Rate this App</h2>
+<p>Please take a moment to rate the app: click “Rate” in the app settings.</p>
+<p><img src="https://github.com/user-attachments/assets/3c05bea9-c5a1-4ebe-954b-2e0b3e3482a4" alt="Rate this app" /></p>
+
+<p><strong>End</strong></p>
 
 </body>
 </html>
+
+
