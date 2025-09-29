@@ -10,8 +10,22 @@
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     font-size: 16px;   /* base size */
     line-height: 1.6;
-    margin: 24px;
+    margin: 0;  /* remove default margin so centering works */
     color: #111;
+    background: #f9f9f9;
+    display: flex;
+    justify-content: center;
+  }
+
+  /* Content container */
+  .container {
+    width: 100%;
+    max-width: 800px;   /* adjust as needed */
+    background: #fff;
+    padding: 24px;
+    margin: 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   }
 
   /* Heading scale (consistent) */
@@ -55,12 +69,11 @@
 </style>
 </head>
 <body>
+<div class="container">
 
 <h1>Din Quick Launch Toolbar</h1>
 <p><em>Din Quick Launch Toolbar</em> is a simple Windows 11/10 app with an auto-hide feature to manage shortcuts. It’s available on the 
 <a href="https://apps.microsoft.com/detail/9n7nxtc0kbks" target="_blank" rel="noopener">Microsoft Store</a>. See the YouTube video below for a quick demonstration.</p>
-<p>For any inquiries on this app, please email <a href="mailto:dinvision.bc@gmail.com">dinvision.bc@gmail.com</a>.</p>
-
 
 <h2>See Demo Video</h2>
 <p>
@@ -68,6 +81,10 @@
     <img src="https://img.youtube.com/vi/548o5cCr1VA/0.jpg" alt="Quick Launch Toolbar Demo (YouTube thumbnail)" />
   </a>
 </p>
+
+<h2>Help and Support</h2>
+<p> For assistance and support, please visit our <a href="https://github.com/DinVision/QuickLaunch/" target="_blank">GitHub page</a>.
+For any inquiries on this app, please email <a href="mailto:dinvision.bc@gmail.com">dinvision.bc@gmail.com</a></p>
 
 <h2>Auto-Hide</h2>
 <p>To enable Auto-Hide, position the toolbar so it touches the side or top edge of the screen. The toolbar will then automatically hide when you move the mouse away from it.</p>
@@ -91,7 +108,7 @@
 <p>To add shortcuts to specific websites, copy the shortcut of your browser (e.g., Edge). Open Properties, add the website address at the end of the <em>Target</em> value, and change the icon as preferred.</p>
 <p><img src="https://github.com/user-attachments/assets/716e5954-8b74-4841-b688-321b54042c1a" alt="Browser shortcut properties example" /></p>
 
-<h2>Run as Administrator (v1.0.59.0+)</h2>
+<h2>Run as Administrator</h2>
 <p>To run any app as an administrator, hold the <strong>Shift</strong> key while clicking the app icon.</p>
 
 <h2>Customization</h2>
@@ -100,19 +117,19 @@
 <h2>Troubleshooting</h2>
 <p>If you change INI settings and don’t have a backup, you can close the app, delete the INI file, and restart the app; it will re-create the INI file with default settings.</p>
 
-<h2>Background Image (v1.0.59.0+)</h2>
+<h2>Background Image</h2>
 <p>To set a background image, enter the image file path in the <code>BackgroundImagePath</code> setting of the INI file (see example below). Use small image files (under 100 KB) to prevent slow loading. Close and reopen the app to apply changes.</p>
 <p><img src="https://github.com/user-attachments/assets/1874df0e-2e52-4b3f-8399-85d81adeea6f" alt="Background image INI example" /></p>
 
 <h2>How to change Toolbar Color</h2>
 <p>Change the color name for the <code>ToolbarColor</code> parameter (choose a color from the
 <a href="https://learn.microsoft.com/en-us/dotnet/media/art-color-table.png?view=windowsdesktop-8.0" target="_blank" rel="noopener">Color Names List</a>).
-For example (v1.0.52.0+):</p>
-<pre>ToolbarColor=LightBlue
-ToolbarBorder=Yes
-ToolbarBorderColor=Green</pre>
-<p>Save the INI file, then close and re-open the toolbar to apply changes.</p>
-<p><img src="https://github.com/user-attachments/assets/d1c69e39-62f4-4635-8d41-3b515a457f8d" alt="Toolbar color example" /></p>
+For example:
+<br>ToolbarColor=LightBlue
+<br>ToolbarBorder=Yes
+<br>ToolbarBorderColor=Green
+<br>Save the INI file, then close and re-open the toolbar to apply changes.
+<br><br><img src="https://github.com/user-attachments/assets/d1c69e39-62f4-4635-8d41-3b515a457f8d" alt="Toolbar color example" /></p>
 
 <h2>How to customize Icons Display</h2>
 <p>See this YouTube video:
@@ -197,7 +214,6 @@ for a demonstration of configurations like the following. Download INI files fro
 
 <p><strong>End</strong></p>
 
+</div>
 </body>
 </html>
-
-
