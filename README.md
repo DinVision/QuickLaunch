@@ -4,10 +4,10 @@ For any inquiries on this App, please email dinvision.bc@gmail.com
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
-<b>Auto-Hide  </b>  
-To enable Auto-Hide, position the toolbar so that it touches the side or top edge of the screen. The toolbar will then automatically hide when you move the mouse away from it and reappears when you hover the mouse over that edge.  
+<b>Auto-Hide:  </b>  
+To enable Auto-Hide, position the toolbar so that it touches the side or top edge of the screen. The toolbar will then automatically hide when you move the mouse away from it and reappears when you hover the mouse over the thin strip on that edge.  
 
-<b>Add and Group Shortcuts  </b>  
+<b>Add and Group Shortcuts:  </b>  
 The shortcuts for the Toolbar are in the "Shortcuts" Folder that can be opened as shown below. Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose. The toolbar can be resized and moved as per preference.  
   
 ![image](https://github.com/user-attachments/assets/3e600486-8af4-47ee-9ef5-24b759153d74)
@@ -79,7 +79,7 @@ See this YouTube Video [How to customize Icons Display](https://www.youtube.com/
 |![image](https://github.com/user-attachments/assets/83a755ba-b222-42b8-83c6-61a45e4b0caa)  | <sub>ButtonSizeWidth=80<br>ButtonSizeHeight=75<br>IconSizeWidth=32<br>IconSizeHeight=32<br>ShowButtonText=Yes<br>ToolbarColor=DarkSlateGray<br>ButtonTextImageRelation=ImageAboveText<br>ButtonImageAlign=TopCenter<br>ButtonTextAlign=MiddleCenter<br>ToolbarBorderColor=DarkGray<br>ButtonTextColor=White<br>FolderTextColor=White</sub> |
 
 
-<b>Create Icons  </b>  
+<b>Create Icons:  </b>  
 Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert to ICO file that you can use as Icons for your shortcuts. See this short YouTube Video [Create Icons from Image](https://www.youtube.com/watch?v=xGHXstfHCos) to see demonstration of this feature.  
   
 ![image](https://github.com/user-attachments/assets/e68b01ac-e314-4863-a7d0-6adf73562725)
