@@ -1,8 +1,10 @@
 <b> About the App: </b>  
 *Din Quick Launch Toolbar* App is a simple App with auto-hide feature for Windows 11/10 to manage Shortcuts. This App is available on Microsoft Store. See following YouTube Video for a quick demonstration of the App.   
-For any inquiries on this App, please email dinvision.bc@gmail.com
+For any inquiries on this App, please email me at dinvision.bc@gmail.com 🙂 <img width="34" height="17" alt="image" src="https://github.com/user-attachments/assets/7eeb46ee-b168-4834-9939-15d154cd2577" />
+
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
+
 
 <b>Auto-Hide:  </b>  
 To enable Auto-Hide, position the toolbar so that it touches the side or top edge of the screen. The toolbar will then automatically hide when you move the mouse away from it and reappears when you hover the mouse over the thin strip on that edge.  
