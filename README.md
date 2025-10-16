@@ -6,6 +6,10 @@ For any inquiries on this App, please email me at dinvision.bc@gmail.com
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
 
+<b>App Ratings:</b><br>
+This app currently has a 4.2★ rating in the <a href="https://apps.microsoft.com/detail/9n7nxtc0kbks?hl=en-US&gl=US" target="_blank">US Region</a>. If you are already using this app, please take a moment to rate it. I will appreciate it. It takes only 10 seconds. Click "Rate" in the App Settings as shown below.   <br><br>
+<img src="https://github.com/user-attachments/assets/3c05bea9-c5a1-4ebe-954b-2e0b3e3482a4" alt="App Ratings" width="600"> 
+
 <b>Auto-Hide:  </b>  
 To enable Auto-Hide, position the toolbar so that it touches the side or top edge of the screen. The toolbar will then automatically hide when you move the mouse away from it and reappears when you hover the mouse over the thin strip on that edge.  
 
@@ -91,9 +95,7 @@ Use Create Icon button to select Image files (jpeg, png, bmp, gif) and convert t
 For older versions, if you prefer not to display the app in the Taskbar, set 'AlwaysShowOnTaskbar' to 'No' in the INI file. Restart the App. Then the App will be displayed in the Taskbar only when you minimize it.  
 ![image](https://github.com/user-attachments/assets/32530b33-bbfe-4917-9355-ef02efb3f6e6)
 
-<B>Rate this App:</B>  
-Please take a moment to Rate this App. Click on "Rate" in the App Settings.
-![image](https://github.com/user-attachments/assets/3c05bea9-c5a1-4ebe-954b-2e0b3e3482a4)
+
 
 <B> End </B>
 
