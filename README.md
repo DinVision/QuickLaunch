@@ -1,13 +1,17 @@
 <b> About the App: </b>  
 *Din Quick Launch Toolbar* App is a simple App with auto-hide feature for Windows 11/10 to manage Shortcuts. This App is available on Microsoft Store. See following YouTube Video for a quick demonstration of the App.   
-For any inquiries on this App, please email me at dinvision.bc@gmail.com 
+For any inquiries on this App, please email me at dinvision.bc@gmail.com <img width="28" height="14" alt="CanadaFlag_28x14" src="https://github.com/user-attachments/assets/5f50d6dd-25b9-4da1-987f-ff151f1770a2" />
+
+
+
+
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
 
-<b>App Ratings:</b><br>
-This app currently has a 4.2★ rating in the <a href="https://apps.microsoft.com/detail/9n7nxtc0kbks?hl=en-US&gl=US" target="_blank">US Region</a>. If you are already using this app, please take a moment to rate it. I will appreciate it. It takes only 10 seconds. Click "Rate" in the App Settings as shown below.   <br><br>
+<b>Thank You for Your Ratings !🙏:</b><br>
+This app currently has a 4.2★ rating in the <a href="https://apps.microsoft.com/detail/9n7nxtc0kbks?hl=en-US&gl=US" target="_blank">US Region</a>. If you are already using this app, please take a moment to rate it. It takes only 10 seconds. Simply click on "Rate" in the App Settings as shown below.   <br><br>
 <img src="https://github.com/user-attachments/assets/3c05bea9-c5a1-4ebe-954b-2e0b3e3482a4" alt="App Ratings" width="600"> 
 
 <b>Auto-Hide:  </b>  
