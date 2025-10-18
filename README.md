@@ -23,7 +23,8 @@ The shortcuts for the Toolbar are in the "Shortcuts" Folder that can be opened a
   
 ![image](https://github.com/user-attachments/assets/3e600486-8af4-47ee-9ef5-24b759153d74)
 
-![image](https://github.com/user-attachments/assets/8666a9e4-fc74-4f58-ac66-d4e4c5f441cf)
+<img width="475" height="311" alt="image" src="https://github.com/user-attachments/assets/414e91a6-5b00-431e-95b3-e71ab90a46d1" />
+
 
 
 <b>Sorting and Naming the Shortcuts:</B>  
