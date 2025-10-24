@@ -1,6 +1,24 @@
+<p>
+Hello to users from around the world! 🌍<br>
+<img src="https://flagcdn.com/28x21/us.png" width="28" height="21" alt="United States" title="United States">
+<img src="https://flagcdn.com/28x21/cn.png" width="28" height="21" alt="China" title="China">
+<img src="https://flagcdn.com/28x21/jp.png" width="28" height="21" alt="Japan" title="Japan">
+<img src="https://flagcdn.com/28x21/in.png" width="28" height="21" alt="India" title="India">
+<img src="https://flagcdn.com/28x21/vn.png" width="28" height="21" alt="Vietnam" title="Vietnam">
+<img src="https://flagcdn.com/28x21/gb.png" width="28" height="21" alt="United Kingdom" title="United Kingdom">
+<img src="https://flagcdn.com/28x21/za.png" width="28" height="21" alt="South Africa" title="South Africa">
+<img src="https://flagcdn.com/28x21/ca.png" width="28" height="21" alt="Canada" title="Canada">
+<img src="https://flagcdn.com/28x21/my.png" width="28" height="21" alt="Malaysia" title="Malaysia">
+<img src="https://flagcdn.com/28x21/sa.png" width="28" height="21" alt="Italy" title="Saudi Arabia">
+</p>
+
+
+
+
 <b> About the App: </b>  
 *Din Quick Launch Toolbar* App is a simple App with auto-hide feature for Windows 11/10 to manage Shortcuts. This App is available on [Microsoft Store](https://apps.microsoft.com/detail/9n7nxtc0kbks). See following YouTube Video for a quick demonstration of the App.   
 For any inquiries on this App, please email me at dinvision.bc@gmail.com <img width="32" height="16" title="Canada" alt="CanadaFlag_32x16" src="https://github.com/user-attachments/assets/bfe4f8f7-8c61-4549-a91c-ed43d1b278ce" />
+
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
