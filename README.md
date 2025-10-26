@@ -1,5 +1,5 @@
 <p>
-Hello to users from around the world! 🌍<br>
+Hello to users from around the world!😊<br>
 <img src="https://flagcdn.com/28x21/us.png" width="28" height="21" alt="United States" title="United States">
 <img src="https://flagcdn.com/28x21/cn.png" width="28" height="21" alt="China" title="China">
 <img src="https://flagcdn.com/28x21/jp.png" width="28" height="21" alt="Japan" title="Japan">
@@ -16,7 +16,8 @@ Hello to users from around the world! 🌍<br>
 
 
 <b> About the App: </b>  
-*Din Quick Launch Toolbar* App is a simple App with auto-hide feature for Windows 11/10 to manage Shortcuts. This App is available on [Microsoft Store](https://apps.microsoft.com/detail/9n7nxtc0kbks). See following YouTube Video for a quick demonstration of the App.   
+*Din Quick Launch Toolbar* App is designed to manage Shortcuts for Windows 11/10 with auto-hide feature. This App is available on [Microsoft Store](https://apps.microsoft.com/detail/9n7nxtc0kbks). <img width="14" height="13" alt="image" src="https://github.com/user-attachments/assets/e89693ef-b4c4-4c82-b292-09f020deb171" />
+Please do not install from any other sources. See following YouTube Video for a quick demonstration of the App.   
 For any inquiries on this App, please email me at dinvision.bc@gmail.com <img width="32" height="16" title="Canada" alt="CanadaFlag_32x16" src="https://github.com/user-attachments/assets/bfe4f8f7-8c61-4549-a91c-ed43d1b278ce" />
 
 
@@ -96,7 +97,7 @@ See this YouTube Video [How to customize Icons Display](https://www.youtube.com/
 
 | Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|![image](https://github.com/user-attachments/assets/b47e8b9d-a415-4fe2-b8e5-cc2de4d29c3d)  | <sub>ButtonSizeWidth=130<br>ButtonSizeHeight=36<br>IconSizeWidth=24<br>IconSizeHeight=24<br>ButtonBorderSize=1<br>ShowButtonText=Yes<br>ToolbarColor=Pink<br>ButtonTextImageRelation=ImageBeforeText<br>ButtonImageAlign=TopLeft<br>ButtonTextAlign=MiddleLeft<br>ToolbarBorderColor=RosyBrown<br>ButtonBorderColor=RosyBrown<br>SpaceBeforeButtonText=Yes</sub> |
+|![image](https://github.com/user-attachments/assets/86d62ec4-2b66-40bf-bd5d-ce46446b00ad)  | <sub>ButtonSizeWidth=130<br>ButtonSizeHeight=36<br>IconSizeWidth=24<br>IconSizeHeight=24<br>ButtonBorderSize=1<br>ShowButtonText=Yes<br>ToolbarColor=Pink<br>ButtonTextImageRelation=ImageBeforeText<br>ButtonImageAlign=TopLeft<br>ButtonTextAlign=MiddleLeft<br>ToolbarBorderColor=RosyBrown<br>ButtonBorderColor=RosyBrown<br>SpaceBeforeButtonText=Yes</sub> |
 
 
 | Toolbar Display                                                                                             | INI settings                                                                                                                                                                                      |
