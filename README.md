@@ -25,6 +25,13 @@ For any inquiries on this App, please email me at dinvision.bc@gmail.com <img wi
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
+<b>Known Issues:</b><br>
+Nov 10th, 2025 - Toolbar not staying on top. There is a known issue where the Din Quick Launch toolbar stops staying on top after opening certain Windows apps such as "Paint" or "Photos". Once one of these apps is opened, all other windows can overlap the toolbar - even apps that normally stay behind it. This behavior started recently and appears to be related to a change in how those Windows apps manage window layering (Z-order).<br><br>
+The current workaround is to minimize the overlapping apps and then hover your mouse over the toolbar to bring it back on top. You can also change "AlwaysShowOnTaskBar=Yes" in the ini file if this is a frequent issue for your use. This behavior is under investigation, but it appears to be caused by changes within the Windows apps themselves, making it difficult to fully control from the Quick Launch toolbar side.
+
+
+
+
 
 <b>Thank You for Your Ratings !🙏:</b><br>
 This app currently has a 4.2★ rating in the [US Region](https://apps.microsoft.com/detail/9n7nxtc0kbks?hl=en-US&gl=US). If you are already using this app, please take a moment to rate it. It takes only 10 seconds. Simply click on "Rate" in the App Settings as shown below.   <br><br>
