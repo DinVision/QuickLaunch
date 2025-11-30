@@ -25,17 +25,8 @@ For any inquiries on this App, please email me at dinvision.bc@gmail.com <img wi
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/548o5cCr1VA/0.jpg)](https://www.youtube.com/watch?v=548o5cCr1VA "Quick Launch Toolbar Demo")
 
-<b>Known Issues:</b><br>
-Nov 10th, 2025 - Toolbar not staying on top. There is a known issue where the Din Quick Launch toolbar stops staying on top after opening certain Windows apps such as "Paint" or "Photos". Once one of these apps is opened, all other windows can overlap the toolbar - even apps that normally stay behind it. This behavior started recently and appears to be related to a change in how those Windows apps manage window layering (Z-order).<br><br>
-The current workaround is to minimize the overlapping apps and then hover your mouse over the toolbar to bring it back on top. You can also change "AlwaysShowOnTaskBar=Yes" in the ini file if this is a frequent issue for your use. This behavior is under investigation, but it appears to be caused by changes within the Windows apps themselves, making it difficult to fully control from the Quick Launch toolbar side.
-
-
-<b>Thank You for Your Ratings !🙏:</b><br>
-This app currently has a 4.2★ rating in the [US Region](https://apps.microsoft.com/detail/9n7nxtc0kbks?hl=en-US&gl=US). If you are already using this app, please take a moment to rate it. It takes only 10 seconds. Simply click on "Rate" in the App Settings as shown below.   <br><br>
-<img src="https://github.com/user-attachments/assets/3c05bea9-c5a1-4ebe-954b-2e0b3e3482a4" alt="App Ratings" width="600"> 
-
 <b>Auto-Hide:  </b>  
-To enable Auto-Hide, position the toolbar so that it touches the side or top edge of the screen. The toolbar will then automatically hide when you move the mouse away from it and reappears when you hover the mouse over the thin strip on that edge.  
+To enable Auto-Hide, position the toolbar so that it touches the side or top edge of the screen. The toolbar will then automatically hide when you move the mouse away from it and reappears when you hover the mouse over the thin strip on that edge. 
 
 <b>Add and Group Shortcuts:  </b>  
 The shortcuts for the Toolbar are in the "Shortcuts" Folder that can be opened as shown below. Create sub-folders to display shortcuts in separate groups as shown in example below. The 3-digit prefix is for sorting purpose. The toolbar can be resized and moved as per preference.  
@@ -102,6 +93,8 @@ The font size and spacing for the Folder Group names can be changed as shown bel
 
 <img width="697" height="281" alt="image" src="https://github.com/user-attachments/assets/a7c795af-f5c2-47f4-9170-2ece09cb1155" /><br>
 
+<b>Always on Top (version 1.0.64.0+)</b><br>
+The App will always stay on top of other open Apps, if you wish to disable this behaviour, change "AlwaysOnTop=No" in the INI File. You can manually add that line them for older INI Files. * see "Known Issues" section. <br>
 
 <B>Website Shortcuts:</B>  
 To add shortcuts to specific websites, make copy of the shortcut of the Browser such as Edge. Open Properties, add the Website address at the end of the Target value. Change Icon as per your preference.   
@@ -118,10 +111,17 @@ Close and re-open the App, then it will display in the app. See following screen
 ![image](https://github.com/user-attachments/assets/13cb0af7-b847-47f0-bf8a-aa8b61653f2a)
 
 <B>Taskbar Display Setting:</B>  
-If you prefer to always display the App in the Taskbar, set 'AlwaysShowOnTaskbar' to 'Yes' in the INI file. Restart the App. Then the App will be displayed in the Taskbar. If you set it to "No", then the App will be displayed in the Taskbar only when you minimize it.  <br><br>
+If you prefer to always display the App in the Taskbar, set 'AlwaysShowOnTaskbar' to 'Yes' in the INI file. Restart the App. Then the App will be displayed in the Taskbar. If you set it to "No", then the App will be displayed in the Taskbar only when you minimize it.   <br><br>
 ![image](https://github.com/user-attachments/assets/32530b33-bbfe-4917-9355-ef02efb3f6e6)
 
+<b>Known Issues:</b><br>
+Nov 10th, 2025 - Toolbar not staying on top. There is a known issue where the Din Quick Launch toolbar stops staying on top after opening certain Windows apps such as "Paint" or "Photos". Once one of these apps is opened, all other windows can overlap the toolbar - even apps that normally stay behind it. This behavior started recently and appears to be related to a change in how those Windows apps manage window layering (Z-order).<br><br>
+The current workaround is to minimize the overlapping apps and then hover your mouse over the toolbar to bring it back on top. You can also change "AlwaysShowOnTaskBar=Yes" in the ini file if this is a frequent issue for your use. This behavior is under investigation, but it appears to be caused by changes within the Windows apps themselves, making it difficult to fully control from the Quick Launch toolbar side.
 
+
+<b>Thank You for Your Ratings !🙏:</b><br>
+This app currently has a 4.2★ rating in the [US Region](https://apps.microsoft.com/detail/9n7nxtc0kbks?hl=en-US&gl=US). If you are already using this app, please take a moment to rate it. It takes only 10 seconds. Simply click on "Rate" in the App Settings as shown below.   <br><br>
+<img src="https://github.com/user-attachments/assets/3c05bea9-c5a1-4ebe-954b-2e0b3e3482a4" alt="App Ratings" width="600"> 
 
 <B> End </B>
 
